@@ -9,7 +9,7 @@
 
 ### Professional Experience:
 - **Administrative Assistant**  
-    - Currently working as an administrative assistant focused on process management and optimization. I develop dynamic Excel spreadsheets for inventory control and price quotations in the automotive sector. Additionally, I leverage Python and data analysis to create strategic purchasing sheets, manage the company’s system, and provide IT support through computer installation and maintenance.
+    - Currently working as an administrative assistant focused on process management and optimization. I develop dynamic Excel spreadsheets for inventory control and price quotations in the automotive sector. Additionally, I use Python and data analysis to create strategic purchasing sheets. I manage the company’s system and provide IT support through computer installation and maintenance.
 
 ## Main Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
