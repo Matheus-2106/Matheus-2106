@@ -6,10 +6,3 @@
 ### Academic Background:
 - **Bachelor's in Information Systems**  
     - <p align="justify">Passionate about computing, with a strong foundation in Python, data science, and IT. Involved with the Computational Modeling Laboratory, where I work with Machine Learning in Computational Fluid Dynamics (CFD) simulations.</p>
-
-### Professional Experience:
-- **Administrative Assistant**  
-    - <p align="justify">Currently working as an administrative assistant focused on management and optimization of operational processes. I develop dynamic Excel spreadsheets for inventory control and quotation of tires and auto parts. In addition, I apply data analysis techniques and Python to create strategic purchasing spreadsheets. I manage the company's system, ensuring organization and simplicity, and provide support in IT services, including the installation and maintenance of computers, ensuring the continuity and efficiency of internal processes.</p>
-
-## Main Skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
