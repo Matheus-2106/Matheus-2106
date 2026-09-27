@@ -1,4 +1,4 @@
-# Hi, I'\''m Matheus Linhares
+# Hi, I'm Matheus Linhares
 
 **Systems Analyst | Database & Software Engineering Enthusiast**
 
